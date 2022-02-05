@@ -91,7 +91,7 @@ The course focuses on three fundamental topics, each expanded below.
 
 ### Preparation of a Compact Field Manual
 
-1.  Goal: Create a Short (< 30p), Compact Field Manual Serving 2 Proposes:
+1.  Goal: Create a Short (\< 30p), Compact Field Manual Serving 2 Proposes:
     *   Summarizing Clark's Western U.S. Geology Lectures into Field Notes
         *   Schematic Maps, x-Sections and Strat. Columns through Time
         *   A Time-line of Tectonic Events Effecting the Western U.S.

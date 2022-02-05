@@ -31,7 +31,7 @@ image_metadata:
     NA, but can be interpreted to be the first sediments deposited near the passive
     margin. We will discuss these more with some slides to come. In the north here
     you can see a huge outcrop of older rocks, the Belt Group. They are 1.5 by to
-    <1 b.y. old. The Belt rocks are still a big puzzle because (1) the western half
+    \<1 b.y. old. The Belt rocks are still a big puzzle because (1) the western half
     are heavily metamorphosed and difficult to interpret and (2) they are also a super-thick
     pile of sediment, up to 15 kilometers! How is this possible? We know that the
     only way that this was possible was that the crust was extremely thin so that
