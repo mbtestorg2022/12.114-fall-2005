@@ -24,6 +24,7 @@ image_metadata:
     \ Paleozoic sediments of the passive margin and young Mesozoic sediments."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Canadian cordillera section.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_133jpg.jpg
 uid: c247d68e-8982-5b85-5746-7238d13fe4a2

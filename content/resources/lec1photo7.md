@@ -14,6 +14,7 @@ image_metadata:
     adequate water bottles for during the day wile you are mapping.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Breakfast in camp.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo7.jpg
 uid: ace96f7d-6637-360e-8a8b-a604a80938f3

@@ -12,6 +12,7 @@ image_metadata:
     exotic fossils including those of both North American and those of Asian affinity.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Deep-water silicious chert.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_123jpg.jpg
 uid: fb5c3d27-2f6c-40c1-07bc-879fae819549

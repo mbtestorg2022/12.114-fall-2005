@@ -23,6 +23,7 @@ image_metadata:
     region adjacent to the mid-ocean ridge.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Sheeted dike complex.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo12.jpg
 uid: 3e7ccbc8-fde2-1b1d-17c0-2ddd13480078

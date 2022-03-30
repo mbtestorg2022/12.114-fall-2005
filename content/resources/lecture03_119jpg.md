@@ -35,6 +35,7 @@ image_metadata:
     \ structures indicative of compression."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Northwest and southwest continental margin.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_119jpg.jpg
 uid: c92fdfc0-9af9-23a5-f490-386db1d1d211

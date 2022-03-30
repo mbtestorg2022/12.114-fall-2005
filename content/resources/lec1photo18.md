@@ -10,6 +10,7 @@ image_metadata:
     that reward us at the end of the day. This image is of the moon at sunset.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Sunset in the desert.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo18.jpg
 uid: f22fda11-bc34-ed01-6afc-c706e6910c6b

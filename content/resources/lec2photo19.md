@@ -17,6 +17,7 @@ image_metadata:
     easy.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Quartzite.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo19.jpg
 uid: 5b5f8118-116c-9e89-2f8e-0eb69a88ab1e

@@ -15,6 +15,7 @@ image_metadata:
     flow in and around Yellowstone.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Present state of western North America.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_156jpg.jpg
 uid: 123c8290-de23-7dac-5c30-8e6de21a3607

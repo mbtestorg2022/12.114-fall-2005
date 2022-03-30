@@ -37,6 +37,7 @@ image_metadata:
     \ is from Canada)"
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Diamictite.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo11.jpg
 uid: d892336b-9b31-337c-b640-9281de3e199b

@@ -15,6 +15,7 @@ image_metadata:
     contemporaneously with the subduction.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Permo-triassic and Sonoma Fronts.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_120jpg.jpg
 uid: d7fcb406-cb82-0541-9072-33c2af9df062

@@ -13,6 +13,7 @@ image_metadata:
     \ and Asian affinity."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Melange rocks.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_122jpg.jpg
 uid: d2c25481-3dbd-4873-def6-c0562c6fcaf5

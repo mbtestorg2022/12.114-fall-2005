@@ -29,6 +29,7 @@ image_metadata:
     \ we can."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Students and teachers puzzling over an outcrop.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo13.jpg
 uid: 6d8011f9-18f8-8ca9-fe86-f1bc0b583d17

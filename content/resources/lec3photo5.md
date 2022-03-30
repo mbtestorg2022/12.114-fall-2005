@@ -17,6 +17,7 @@ image_metadata:
     thick.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Continental margin sediments.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo5.jpg
 uid: 02279962-eef7-c88b-e5ed-cc3ab82e9ce5

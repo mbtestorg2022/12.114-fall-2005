@@ -12,6 +12,7 @@ image_metadata:
     be deposited. Here there is no record of the Antler foredeep or orogeny.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Stratigraphic section on the edge of the foredeep.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo4.jpg
 uid: 788c649b-b483-5e4c-e85b-dfbe920c3175

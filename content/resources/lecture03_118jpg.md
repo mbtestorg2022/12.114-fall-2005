@@ -54,6 +54,7 @@ image_metadata:
     \ curst resulting in arc volcanism and back arc or marginal basins)."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Permian through Triassic development of Sonomian arc.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_118jpg.jpg
 uid: ce2abff1-4028-971b-b16e-ec36194d5d08

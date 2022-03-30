@@ -13,6 +13,7 @@ image_metadata:
     Orogeny was complete by the early Pennsylvanian.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Pennsylvanian sediments.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo6.jpg
 uid: 1ea7268f-99e8-0903-2e88-80ce804bf4de

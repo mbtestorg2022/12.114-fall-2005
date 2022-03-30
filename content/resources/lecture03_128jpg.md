@@ -9,6 +9,7 @@ image_metadata:
     \ blocks of Cretaceous rock in m\xE9lange."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Outcrops of melange in California.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_128jpg.jpg
 uid: 030e735d-7ec8-c38b-a28e-262d2b4b1e00

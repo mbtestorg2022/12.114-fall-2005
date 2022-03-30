@@ -16,6 +16,7 @@ image_metadata:
     cards to that there is a great deal of repeated section.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Distal rocks.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo17.jpg
 uid: 93a8a397-a73b-dd66-bae9-19791d254cf8

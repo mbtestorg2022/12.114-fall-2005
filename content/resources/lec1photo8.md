@@ -17,6 +17,7 @@ image_metadata:
     well!
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Tents pitched in the desert.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo8.jpg
 uid: a3292263-1a24-793e-bfd5-fcde30a00d93

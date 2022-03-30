@@ -57,6 +57,7 @@ image_metadata:
     \ may shed light on this process."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Late Cretaceous-middle Eocene.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_143jpg.jpg
 uid: fb078d8e-24c3-5375-129e-57665303349e

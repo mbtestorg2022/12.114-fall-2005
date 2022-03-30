@@ -41,6 +41,7 @@ image_metadata:
     Still, the Belt Group remains a big mystery.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Precambrian rock outcrops in NA.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo5.jpg
 uid: b86a4dd1-3c56-f6fc-8e26-3fb2fa123363

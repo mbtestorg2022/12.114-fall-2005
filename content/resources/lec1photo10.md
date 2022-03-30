@@ -17,6 +17,7 @@ image_metadata:
     geology is just to get out there and do it.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Touring the field area on the first day.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo10.jpg
 uid: e3fe2b6c-4231-66ab-a34c-de74e3d842e5

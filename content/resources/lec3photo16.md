@@ -30,6 +30,7 @@ image_metadata:
     belt. This suggests there was no arc collision during Antler time.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Antler orogeny event timeline.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo16.jpg
 uid: 1e00857a-6159-9369-0c8f-febd19d67335

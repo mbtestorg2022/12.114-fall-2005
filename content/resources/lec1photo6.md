@@ -12,6 +12,7 @@ image_metadata:
     students between their daily field mapping areas and the camp.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Old tents and truck.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo6.jpg
 uid: 7e6f0bb8-fd93-0f4e-833c-bc03ec7b6dc0

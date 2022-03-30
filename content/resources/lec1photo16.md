@@ -9,6 +9,7 @@ image_metadata:
     dome tents in the background.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Aerial view of the camp.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo16.jpg
 uid: 93f700a4-2885-c55b-33e6-661c30fc281a

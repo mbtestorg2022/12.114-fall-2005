@@ -25,6 +25,7 @@ image_metadata:
     \ environment."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Triassic-middle Jurassic.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_126jpg.jpg
 uid: a13a1e4f-42e4-54d0-4334-855a51915382

@@ -29,6 +29,7 @@ image_metadata:
     \ the subduction zone and its associated magmatic arc migrate to the west."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Middle Jurassic-late Cretaceous.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_127jpg.jpg
 uid: b0b8dba1-37d1-756b-2761-0188ae3d2bfc

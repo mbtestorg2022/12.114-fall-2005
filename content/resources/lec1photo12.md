@@ -9,6 +9,7 @@ image_metadata:
     it.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Campers examining a rock face.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo12.jpg
 uid: 9e7a5f88-e6af-37f2-d131-083693ee8344

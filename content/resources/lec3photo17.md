@@ -57,6 +57,7 @@ image_metadata:
     shallow marine rocks deposited over them.'
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Mississipian-Permian.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo17.jpg
 uid: 4a21baa9-daaf-85ae-3128-851b9887b9a0

@@ -55,6 +55,7 @@ image_metadata:
     \ sediments form the top of the oceanic crustal sequence."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Folded and deformed cherts.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo14.jpg
 uid: c4376c90-f698-3af3-c214-452adf543af9

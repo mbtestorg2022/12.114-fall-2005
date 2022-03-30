@@ -12,6 +12,7 @@ image_metadata:
     or mud cracks in the rock, suggesting subaerial exposure.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Near shore/river sediment.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo9.jpg
 uid: 06476171-1e0e-8b29-819a-ce6cf8abdf44

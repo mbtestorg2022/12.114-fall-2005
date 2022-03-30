@@ -47,6 +47,7 @@ image_metadata:
     carried over large distances).
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Thrusted sediments from the Antler marine basin.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo1.jpg
 uid: 13f725af-b9b0-9492-e08f-d46fccb2f33c

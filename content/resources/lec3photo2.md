@@ -20,6 +20,7 @@ image_metadata:
     \ Mountain thrust, we know that the fault was active over roughly 10 million years."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Roberts Mountain thrust contact.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo2.jpg
 uid: ed2daad9-24df-3d08-9659-5389f8802594

@@ -17,6 +17,7 @@ image_metadata:
     subsidence can do!
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Death Valley.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo16.jpg
 uid: e040b7ec-1505-c10b-7b47-92da115b03f7

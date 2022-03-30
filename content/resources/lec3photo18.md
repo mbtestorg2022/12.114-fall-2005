@@ -17,6 +17,7 @@ image_metadata:
     of a Continental Andean arc sometime before 252ma.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Igneous intrusion.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo18.jpg
 uid: 94e7e3bf-0298-9035-7154-381bef4d7eec

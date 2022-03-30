@@ -10,6 +10,7 @@ image_metadata:
     deposits found in the deepest portion of the foredeep.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Turbidite deposits.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_138jpg.jpg
 uid: 21dfae53-9740-0d0d-c632-27041d6dbd56

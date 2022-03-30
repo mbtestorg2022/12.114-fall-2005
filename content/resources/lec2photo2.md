@@ -25,6 +25,7 @@ image_metadata:
     at the western edge of North America.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Two major tectonic provinces in NA.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo2.jpg
 uid: 7f9227b3-599f-5719-cf0a-066a63b63f95

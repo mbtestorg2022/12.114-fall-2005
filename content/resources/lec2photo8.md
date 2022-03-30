@@ -10,6 +10,7 @@ image_metadata:
     first phase when the rate of subsidence was matched by the rate of sedimentation.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Folded shallow marine sediments.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo8.jpg
 uid: 4845ee2a-c08e-bd8e-6dcc-7626d6a9a7d7

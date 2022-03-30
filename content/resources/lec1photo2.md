@@ -23,6 +23,7 @@ image_metadata:
     food preparation and in washing kitchen dishes.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Camp set-up.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo2.jpg
 uid: 5ac87135-220d-c496-68e1-d66b481ea651

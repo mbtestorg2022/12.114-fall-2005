@@ -15,6 +15,7 @@ image_metadata:
     ridge.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Metaigneous rocks.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo10.jpg
 uid: bda04718-a635-a8df-26c7-d7405020bb26

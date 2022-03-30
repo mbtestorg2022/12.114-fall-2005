@@ -57,6 +57,7 @@ image_metadata:
     up and over the nearshore marine rocks (this will be discussed shortly).
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Cambrian-Late Devonian.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo13.jpg
 uid: fa2425fb-85f0-3c4b-2ca5-435ad7728587

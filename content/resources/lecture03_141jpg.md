@@ -21,6 +21,7 @@ image_metadata:
     is hotly debated to this day.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Lateral tectonic movement in the Cordillera.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_141jpg.jpg
 uid: 41248e5d-2f8c-b22e-daa9-f4d213b149a5

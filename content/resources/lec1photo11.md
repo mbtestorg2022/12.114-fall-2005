@@ -10,6 +10,7 @@ image_metadata:
     tents. This may be an image from one of the Environmental Field camps.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: The camp from above.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo11.jpg
 uid: 05488878-779a-3f31-bed4-bc8e3dc89278

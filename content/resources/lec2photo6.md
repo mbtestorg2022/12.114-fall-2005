@@ -9,6 +9,7 @@ image_metadata:
     can see, they are a thick pile of sediments!
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Sedimentary layers in the Belt group.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo6.jpg
 uid: ecc68495-cec9-9bb8-3dac-68260eaaddcc

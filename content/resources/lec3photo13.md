@@ -20,6 +20,7 @@ image_metadata:
     already erupted. In the cordillera we can see portions of the Cambrian ocean floor.'
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Pillow basalts.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo13.jpg
 uid: 588cc938-ee53-f3da-6f82-db33f38c6d27

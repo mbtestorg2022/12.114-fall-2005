@@ -25,6 +25,7 @@ image_metadata:
     deposits derived from volcanic materials.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Altered island arc ashes and sediments.
+parent_uid: 099c1f24-01b3-29a8-7ded-96fdaf0ce89c
 resourcetype: Image
 title: lec3photo8.jpg
 uid: 44a4b3f1-3aee-dad3-1f66-ed51cee2a659

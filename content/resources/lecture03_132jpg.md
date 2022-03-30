@@ -9,6 +9,7 @@ image_metadata:
     Valley in California.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Yosemite intrusive rocks.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_132jpg.jpg
 uid: ad12482b-bb8a-086c-97cf-1b1b75afb328

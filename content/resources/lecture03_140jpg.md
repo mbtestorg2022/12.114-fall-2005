@@ -29,6 +29,7 @@ image_metadata:
     be happening.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Arc-related plutons.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_140jpg.jpg
 uid: a032339b-7e22-362b-31f4-8481dfbde8c9

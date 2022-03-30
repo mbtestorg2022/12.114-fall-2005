@@ -55,6 +55,7 @@ image_metadata:
     \ the passive margin sometime younger than 1 billion years."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Precambrian rock in NA.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo4.jpg
 uid: 669531de-345f-9551-bbfd-9ab4561def2f

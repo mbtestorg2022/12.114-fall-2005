@@ -12,6 +12,7 @@ image_metadata:
     \ zone present all along western North America following the Sonoma orogeny."
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Melange rocks.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_121jpg.jpg
 uid: 9f4ef8ea-5e4c-c150-8ae6-70ba65d4440c

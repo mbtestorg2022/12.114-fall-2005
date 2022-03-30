@@ -16,6 +16,7 @@ image_metadata:
     and out each day so it is important to be in good shape.
   credit: Images courtesy of Professor Burchfiel.
   image-alt: The field area.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo1.jpg
 uid: b899ef9b-a2b7-e809-c93c-929e0c88dd8b

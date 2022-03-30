@@ -13,6 +13,7 @@ image_metadata:
     over Jurassic sandstones.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Keystone Thrust near Las Vegas.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_134jpg.jpg
 uid: 2d566635-7753-bfc7-59f5-94153f3d1be4

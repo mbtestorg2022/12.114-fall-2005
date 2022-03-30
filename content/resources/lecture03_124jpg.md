@@ -15,6 +15,7 @@ image_metadata:
     of all these tectonic elements in the southwest U.S.'
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Sonoman orogeny.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_124jpg.jpg
 uid: 8555b757-93d4-14f4-4b25-5b247da63d6c

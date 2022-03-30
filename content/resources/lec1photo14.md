@@ -9,6 +9,7 @@ image_metadata:
     trips. This is one to Death Valley.
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Trip to Death Valley.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo14.jpg
 uid: 00ad2842-fbd6-6a67-06b1-70fe85a47b76

@@ -12,6 +12,7 @@ image_metadata:
     \ These will help guide your observations and work in the field."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: A lecture in camp.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo9.jpg
 uid: 4e1e11a5-a598-3c0b-3d9f-0df3239bc870

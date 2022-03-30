@@ -18,6 +18,7 @@ image_metadata:
     they are a geochemist\u2019s nightmare. Hats off to those who can do this work!"
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Metaigneous rocks.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo18.jpg
 uid: ba0562fc-d18c-24e9-70ee-a6754c898224

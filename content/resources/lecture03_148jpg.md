@@ -11,6 +11,7 @@ image_metadata:
     deformation and the thrust and fold belt of Mesozoic age.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Burchfiel and Davis 1975.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_148jpg.jpg
 uid: a0bb0198-042e-0038-e662-0825a607a6fa

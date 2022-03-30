@@ -23,6 +23,7 @@ image_metadata:
     \ food is way back over there."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Early morning camp wake-up.
+parent_uid: 7fec6e10-9880-624a-f066-1c61f619dca6
 resourcetype: Image
 title: lec1photo5.jpg
 uid: cc6bf88a-84ce-89f4-d14f-961084ac3d81

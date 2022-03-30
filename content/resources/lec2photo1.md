@@ -11,6 +11,7 @@ image_metadata:
     regional geological discussions.
   credit: Courtesy of USGS.
   image-alt: Two major tectonic provinces in NA.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo1.jpg
 uid: c5c8126a-c1a2-bd40-355e-a25c61820e79

@@ -27,6 +27,7 @@ image_metadata:
     to the extension that created the Basin and Range Province.
   credit: Courtesy of Prof. Burchfiel.
   image-alt: Volcanic rocks 53 MA to 17 MA.
+parent_uid: 0d9c484b-80f9-4a68-326d-ffc0706d85ca
 resourcetype: Image
 title: lecture03_152jpg.jpg
 uid: fee625c8-802d-010d-9409-03f48ceab37d

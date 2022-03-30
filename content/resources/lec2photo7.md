@@ -59,6 +59,7 @@ image_metadata:
     \ edge of the margin."
   credit: Image courtesy of Professor Burchfiel.
   image-alt: Late Precambrian-Early Cambrian layers.
+parent_uid: 23584c04-be2a-b2c7-4797-dfc0405f37cc
 resourcetype: Image
 title: lec2photo7.jpg
 uid: cae71bf6-578e-ddad-458e-006225530145
